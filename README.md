@@ -4,4 +4,4 @@ how to use it after downloading my tool just enter python seritory.py
 and enjoy the tool
 default wordlist for bruteforce is wordlist.txt
 one more time use for educational proposes only
-also install requirements.txt(important)
+(((also install requirements.txt(important))))))))))))
