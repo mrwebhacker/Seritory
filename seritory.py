@@ -23,7 +23,7 @@ response = input("the author is not responsible for your any move,unauthorized a
 
 if response.lower() == "yes":
 
-                     print("access granted, and you are responsible for your all moves")5
+                     print("access granted, and you are responsible for your all moves")
 
 else:
      print("you are a cyber criminal")
