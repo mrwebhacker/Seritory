@@ -5,3 +5,4 @@ and enjoy the tool
 default wordlist for bruteforce is wordlist.txt
 one more time use for educational proposes only
 (((also install requirements.txt(important))))))))))))
+by ADITYA RAWAT YT-(YT GAMING KING)
