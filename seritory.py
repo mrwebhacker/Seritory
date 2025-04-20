@@ -19,11 +19,11 @@ print("are you authorized")
 
 print("do you have permission for testing the website")
 
-response = input("the author is not responsible for your any move,unau>
+response = input("the author is not responsible for your any move,unauthorized access is a cyber crime according to-Section 43 of the Information Technology Act, 2000, addresses penalties for unauthorized access, including accessing, downloading, or introducing a virus into a computer system without permission")
 
 if response.lower() == "yes":
 
-                     print("access granted, and you are responsible fo>
+                     print("access granted, and you are responsible for your all moves")5
 
 else:
      print("you are a cyber criminal")
