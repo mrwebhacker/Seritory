@@ -15,6 +15,19 @@ def show_banner():
 """
     print(banner)
     time.sleep(0.5)
+print("are you authorized")
+
+print("do you have permission for testing the website")
+
+response = input("the author is not responsible for your any move,unau>
+
+if response.lower() == "yes":
+
+                     print("access granted, and you are responsible fo>
+
+else:
+     print("you are a cyber criminal")
+                           exit()
 
 def scan_robots_txt(domain):
     print(f"\n[+] Scanning robots.txt on {domain}...\n")
