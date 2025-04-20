@@ -1,0 +1,8 @@
+requests>=2.20.0,<3.0.0
+urllib3>=1.26.5,<2.0.0
+chardet>=3.0.2,<5
+six
+colorama
+termcolor
+beautifulsoup4
+
