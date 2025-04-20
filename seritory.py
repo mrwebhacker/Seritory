@@ -1,5 +1,6 @@
 import requests
 import time
+import sys
 
 def show_banner():
     banner = r"""
@@ -19,7 +20,7 @@ print("are you authorized")
 
 print("do you have permission for testing the website")
 
-response = input("the author is not responsible for your any move,unauthorized access is a cyber crime according to-Section 43 of the Information Technology Act, 2000, addresses penalties for unauthorized access, including accessing, downloading, or introducing a virus into a computer system without permission")
+response = input("the author is not responsible for your any move,unauthorized access is a cyber crime according to-Section 43 of the Information Technology Act, 2000, addresses penalties for unauthorized access, including accessing, downloading, or introducing a virus into a computer system without permission,did you accept and continue (yes/no): ")
 
 if response.lower() == "yes":
 
@@ -27,7 +28,7 @@ if response.lower() == "yes":
 
 else:
      print("you are a cyber criminal")
-                           exit()
+     sys.exit()
 
 def scan_robots_txt(domain):
     print(f"\n[+] Scanning robots.txt on {domain}...\n")
